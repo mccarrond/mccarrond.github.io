@@ -51,9 +51,6 @@ New York City Area - 845.591.4054 - [joseph.torreggiani@gmail.com]()
 
 **Web Developer / Assistant Project Manager**
 
-Responsibilities
-* 
-
 Project Management Application - Internal Use
 
 * Worked with the project managers to assess the company's information management strategy
