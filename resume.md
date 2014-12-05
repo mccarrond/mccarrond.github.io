@@ -46,7 +46,7 @@ New York City Area - 845.591.4054 - [joseph.torreggiani@gmail.com]()
 * Built a mobile-ready website for a Brooklyn filmmaker's upcoming movie 
 * Implemented a custom responsive grid system with CSS media queries
 * Tested for cross-browser compatibilty with BrowserStack
-* Used a [Unicorn HTTP server](http://unicorn.bogomips.org/) to improve concurrency
+* Used a Unicorn HTTP server to improve concurrency
 * Deployed the application on Heroku and used New Relic for monitoring
 
 **Web Developer / Assistant Project Manager**
@@ -142,3 +142,11 @@ The College of Saint Rose, Albany NY
 **Semester Abroad** - 2009  
 Lorenzo De' Medici Italian International Institute, Florence, Italy
 
+---
+
+#AWARDS & HONORS
+
+Deans List Every Semester of College  
+Graduated Magna Cum Laude  
+Phi Alpha Theta National History Honor Society  
+Phi Sigma Tau International Philosophy Society
