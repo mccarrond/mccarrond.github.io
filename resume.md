@@ -63,7 +63,7 @@ Project Management Application - Internal Use
 
 Brochure Website - [www.keyconstructionservices.com](http://keyconstructionservices.com/)
 
-* Collaborated with marketing director to rebrand the company and improve its web prescence
+* Collaborated with marketing director to rebrand the company and improve its web presence
 * Produced the company's [portfolio video](https://www.youtube.com/watch?v=WnZChu3UiDY) and
 developed a responsive a wrapper for player
 * Learned PHP to work within the company's existing LAMP Stack
