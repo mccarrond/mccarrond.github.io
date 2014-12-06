@@ -61,7 +61,7 @@ Brochure Website - [www.keyconstructionservices.com](http://keyconstructionservi
 
 * Collaborated with marketing director to rebrand the company and improve its web presence
 * Produced the company's [portfolio video](https://www.youtube.com/watch?v=WnZChu3UiDY) and
-developed a responsive a wrapper for player
+developed a responsive wrapper for video player
 * Learned PHP to work within the company's existing LAMP Stack
 * Developed a responsive website with legacy browser support 
 
