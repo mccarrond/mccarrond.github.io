@@ -2,22 +2,20 @@
 layout: default
 ---
 
-<header class="home-header">
+<style type="text/css">
+.page-content {
+  background-image: url('/images/myscreen.png'); 
+  background-size: cover;
+  height:30em;
+  width: 100%;
+  border:none;
+  padding:0;
+}
+</style>
+
+<header class="home-header" style="">
   <h1 class="home-title"> Joseph Torreggiani </h1>
-  <p class="home-tagline"> Designer | Developer | Researcher | Activist </p>
+  <p class="home-tagline"> Engineer | Researcher | Advocate </p>
 </header>
-
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 <div class="buffer"> </div>

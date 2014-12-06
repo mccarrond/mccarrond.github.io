@@ -12,12 +12,12 @@ New York City Area - 845.591.4054 - [joseph.torreggiani@gmail.com]()
 
 ---
 
-#QUALIFICATIONS
+#SUMMARY OF QUALIFICATIONS
 
 * Extensive experience building and maintaining dynamic web applications
-* Strong familiarity with test-driven development, and agile methodology
+* Strong familiarity with test-driven development (TDD) and agile methodology
 * Self-directed learner dedicated to disciplined practice and continuing education
-* Excellent critical thinking and communication skills
+* Passionate and performance-driven developer actively building a reusable codebase
 
 ---
 
@@ -28,35 +28,34 @@ New York City Area - 845.591.4054 - [joseph.torreggiani@gmail.com]()
 *Fortune 500 Company*
 
 * Developed a lightweight voice application using Twilio and Sinatra
-* Implemented a basic IVR that handles DTMF input and transferring callers
-* Integrated the SendGrid gem to send voicemails and call details to the client
+* Implemented a basic interactive voice response system that handles caller input
+* Integrated the [SendGrid](https://sendgrid.com/) gem to send voicemails and call details to the client
 * Delivered the solution 2 months faster than predicted by the project manager
-* Saved the company upwards of $10,000 
+* Reduced the budget of the project by $15,000 
 
 *Roadrunner Paintball* - [www.roadrunnerpaintball.com](http://www.roadrunnerpaintball.com/)
 
 * Managed a designer, developer, and video producer to create an interactive website
 * Developed a dynamic game calendar with payment via the Paypal REST API
 * Assisted in the production and editing of the company's [promotional video](https://www.youtube.com/watch?v=01IXLyKnJk0)
-* Pair coded with a senior Ruby-on-Rails developer and learned advanced practices
-* Deployed the application on Digital Ocean via Capistrano 
+* Pair coded with a senior Ruby on Rails (RoR) developer and learned advanced practices
+* Deployed the application on Digital Ocean via [Capistrano](http://capistranorb.com/)
 
 *The Homeless Film* - [www.thehomelessfilm.com](http://www.thehomelessfilm.com/)
 
 * Built a mobile-ready website for a Brooklyn filmmaker's upcoming movie 
 * Implemented a custom responsive grid system with CSS media queries
-* Tested for cross-browser compatibilty with BrowserStack
-* Used a Unicorn HTTP server to improve concurrency
+* Tested for cross-browser compatibility with BrowserStack
 * Deployed the application on Heroku and used New Relic for monitoring
 
 **Web Developer / Assistant Project Manager**
 
 Project Management Application - Internal Use
 
-* Worked with the project managers to assess the company's information management strategy
-* Developed a Ruby-on-Rails application using TDD and an agile development process
+* Worked with the project management team to assess the company's information management
+* Developed a RoR application using TDD and an agile development process
 * Created a jQuery UI powered drag-and-drop workforce allocation board
-* Implemented Excel spreadsheet import and export functionality
+* Implemented an Excel spreadsheet import and export functionality
 
 Brochure Website - [www.keyconstructionservices.com](http://keyconstructionservices.com/)
 
@@ -64,7 +63,7 @@ Brochure Website - [www.keyconstructionservices.com](http://keyconstructionservi
 * Produced the company's [portfolio video](https://www.youtube.com/watch?v=WnZChu3UiDY) and
 developed a responsive a wrapper for player
 * Learned PHP to work within the company's existing LAMP Stack
-* Developed a responsive website with IE8+ support 
+* Developed a responsive website with legacy browser support 
 
 ---
 
@@ -72,7 +71,9 @@ developed a responsive a wrapper for player
 
 **Languages:** Ruby, JavaScript, HTML, CSS, SCSS, PHP
 
-**Frameworks:** Ruby-on-Rails, Sinatra, jQuery UI, AngularJS, PhoneGap-Cordova
+**Frameworks:** Ruby on Rails, Sinatra, jQuery UI, AngularJS, PhoneGap-Cordova
+
+**Libraries:** Rspec, Capybara, Devise, delayed_job, Jekyll, Factory Girl
 
 **Platforms/APIs:** Digital Ocean, Heroku, Twilio, Node.js, PayPal, Stripe 
 
@@ -84,8 +85,7 @@ developed a responsive a wrapper for player
 
 **Empirical** -- [www.empiricalreview.com](http://www.empiricalreview.com/)
 
-An alternative news and media provider. It is still in its very early phases, hence the construction page, but 
-we are making a lot of progress! 
+An alternative news and media provider. It is still in its very early phases, hence the construction page, but we are making a lot of progress! 
 
 **Calculus with JavaScript** - [github.com/jtorreggiani/calculus_with_javascript](https://github.com/jtorreggiani/calculus_with_javascript)
 
@@ -96,18 +96,6 @@ A very basic attempt to do symbolic math in javascript.
 An idea for a bot that automates my job search. Currently the project is just a collection of scripts that pull
 search results from several websites including Indeed.com, WeWorkRemotely.com, and Craigslist. I have also started
 experimenting with the [mechanize]() gem to click buttons on Craiglist to access additional information. 
-
-**Compiler Interpreter** - Computer Science 1  
-
-Took initiative to talk to the professor about doing work beyond the scope of the class. I successfully extended 
-the professor's Java-based compiler, despite having no prior knowledge of the language. I was also able to
-adapt the compiler's tokenizer, symbol table, and parser to build a pure interpreter. 
-
-**Chemical Reaction Solver** - Computer Programming for Engineers (C++)  
-
-Pursued an advanced final project despite the professor's concern about the scope of the project. Determined a 
-general system of equations for balancing basic chemical equations. Independently studied linear algebra to 
-develop an algorithm to solve the problem. Verified my approach with the chair of the mathematics department. 
 
 ---
 
