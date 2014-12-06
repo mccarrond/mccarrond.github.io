@@ -95,7 +95,7 @@ A very basic attempt to do symbolic math in javascript.
 
 An idea for a bot that automates my job search. Currently the project is just a collection of scripts that pull
 search results from several websites including Indeed.com, WeWorkRemotely.com, and Craigslist. I have also started
-experimenting with the [mechanize]() gem to click buttons on Craiglist to access additional information. 
+experimenting with the [mechanize]() gem to click buttons on Craigslist to access additional information. 
 
 ---
 
