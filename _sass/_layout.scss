@@ -36,6 +36,11 @@
         }
     }
 
+    .page-link:hover {
+        text-decoration: underline;
+
+    }
+
     @include media-query($on-palm) {
         .page-link {
             padding:1em;
