@@ -8,16 +8,27 @@ body {
   background-image: url('/images/subtle_carbon.png');
 }
 .page-content {
-  background-image: url('/images/myscreen.png'); 
+  background-image: url('/images/screenshot2.jpg'); 
   background-size: cover;
-  height:30em;
+  height:34em;
   width: 100%;
   border:none;
   padding:0;
+  position: relative;
+}
+.page-content:after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,.5);
 }
 </style>
 
-<header class="home-header" style="">
+<header class="home-header">
   <h1 class="home-title"> Joseph Torreggiani </h1>
   <p class="home-tagline"> Engineer | Researcher | Advocate </p>
 </header>

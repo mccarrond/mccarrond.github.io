@@ -5,6 +5,10 @@
   font-weight:900;
   padding-top: 3em;
   color:white;
+  z-index: 100;
+  position: relative;
+  text-shadow: 0 0 50px #000, 0 0 6px #000;
+  -webkit-font-smoothing: antialiased;
 }
 
 .home-tagline {
@@ -12,6 +16,9 @@
   font-size: 1.5em;
   margin-bottom: 2em;
   color:white;
+  z-index: 100;
+  position: relative;
+  text-shadow: 0 0 50px #000, 0 0 6px #000;
 }
 
 //.home-header { background-image: url(/images/florence.PNG); }
