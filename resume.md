@@ -24,6 +24,7 @@ Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
 #PROFESSIONAL EXPERIENCE
 
 **Web Engineer (Contractor)**
+Remote
 
 *Fortune 500 Company*
 
@@ -49,6 +50,7 @@ Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
 * Deployed the application on Heroku and used New Relic for monitoring
 
 **Webmaster / Web Developer**
+Key Construction Services, Poughkeepsie NY
 
 Project Management Application - Internal Use
 
