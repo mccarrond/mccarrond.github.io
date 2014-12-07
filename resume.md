@@ -84,7 +84,7 @@ developed a responsive wrapper for video player
 
 #PROJECTS
 
-**Empirical** -- [www.empiricalreview.com](http://www.empiricalreview.com/)
+**Empirical** -- [www.empiricalreview.com](http://www.empiricalreview.com/) (Heroku Dev Server)
 
 An alternative news and media provider. It is still in its very early phases, hence the construction page, but we are making a lot of progress! 
 
