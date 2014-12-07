@@ -48,7 +48,7 @@ Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
 * Tested for cross-browser compatibility with BrowserStack
 * Deployed the application on Heroku and used New Relic for monitoring
 
-**Web Developer / Assistant Project Manager**
+**Webmaster / Web Developer**
 
 Project Management Application - Internal Use
 
@@ -63,6 +63,7 @@ Brochure Website - [www.keyconstructionservices.com](http://keyconstructionservi
 * Produced the company's [portfolio video](https://www.youtube.com/watch?v=WnZChu3UiDY) and
 developed a responsive wrapper for video player
 * Learned PHP to work within the company's existing LAMP Stack
+* Handled domain purchase, DNS configuration, and registration with search engines
 * Developed a responsive website with legacy browser support 
 
 ---
