@@ -49,7 +49,7 @@ Remote
 * Tested for cross-browser compatibility with BrowserStack
 * Deployed the application on Heroku and used New Relic for monitoring
 
-**Webmaster / Web Developer**
+**Webmaster / Web Developer**  
 Key Construction Services, Poughkeepsie NY
 
 Project Management Application - Internal Use
