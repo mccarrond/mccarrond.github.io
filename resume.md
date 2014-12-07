@@ -92,7 +92,7 @@ An alternative news and media provider. It is still in its very early phases, he
 
 A very basic attempt to do symbolic math in javascript.
 
-**Job Search Bot**
+**Job Search Bot** - [github.com/jtorreggiani/job_search_automator](https://github.com/jtorreggiani/job_search_automator)
 
 An idea for a bot that automates my job search. Currently the project is just a collection of scripts that pull
 search results from several websites including Indeed.com, WeWorkRemotely.com, and Craigslist. I have also started
