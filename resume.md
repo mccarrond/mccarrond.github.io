@@ -8,7 +8,7 @@ permalink: /resume/
 
 ##**JOE TORREGGIANI**
 
-New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
+Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
 
 ---
 
