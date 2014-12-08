@@ -23,7 +23,7 @@ Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
 
 #PROFESSIONAL EXPERIENCE
 
-**Web Engineer (Contractor)**
+**Web Engineer (Contractor)**    
 Remote
 
 *Fortune 500 Company*
