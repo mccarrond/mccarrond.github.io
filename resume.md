@@ -54,7 +54,7 @@ Key Construction Services, Poughkeepsie NY
 
 Project Management Application - Internal Use
 
-* Worked with the project management team to assess the company's information management
+* Worked with the project managers to assess the company's information management
 * Developed a RoR application using TDD and an agile development process
 * Created a jQuery UI powered drag-and-drop workforce allocation board
 * Implemented an Excel spreadsheet import and export functionality
@@ -115,10 +115,7 @@ Presented research on the use of crowdsourcing to solve the problems of debt and
 ---
 
 #EDUCATION
-**Bachelor of Science in Computer Engineering** - In Progress             
-State University at New Paltz, New Paltz NY   
-
-
+ 
 **Back-End Web Development Technology Course** - 2013  
 General Assembly, New York NY
 
