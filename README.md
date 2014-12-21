@@ -1,4 +1,4 @@
 jtorreggiani.github.io
 ======================
 
-My Personal Blog and Online Resume
+My personal blog and online portfolio.
