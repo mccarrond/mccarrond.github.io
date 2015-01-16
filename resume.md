@@ -26,7 +26,7 @@ Software: LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Goog
 
 Grandparents.com, Inc. New York, New York // March 2014 to Current
 
-Technical Consultant
+<b> Technical Consultant <b>
 
 • Project manager working on daily development of Grandparents.com, a site with 20,000+ visits per day
 
