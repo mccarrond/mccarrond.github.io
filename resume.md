@@ -6,131 +6,88 @@ permalink: /resume/
 
 <br>
 
-##**JOE TORREGGIANI**
+(862) 215-4823 Daniel J. McCarron dan.mccarron@gmail.com
 
-Greater New York City Area - 845.591.4054 - [joetorreggiani@gmail.com]()
+// COMPUTER SKILLS:
 
----
+Programming and Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS
 
-#SUMMARY OF QUALIFICATIONS
+Operating Systems: Linux, Solaris, HPUX, BSD, DOS, Windows, OS X, iOS, Android
 
-* Extensive experience building and maintaining dynamic web applications
-* Strong familiarity with test-driven development (TDD) and agile methodology
-* Self-directed learner dedicated to disciplined practice and continuing education
-* Passionate and performance-driven developer actively building a reusable codebase
+Hardware: Sun UltraSPARC, Mac, PC, Routers/Switches, Storage Arrays
 
----
+Software: LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, VMware, Vagrant
 
-#PROFESSIONAL EXPERIENCE
+// EXPERIENCE:
 
-**Web Engineer (Contractor)** <span style="float:right;"> 2013 - Present </span>  
-Remote
+Grandparents.com, Inc. New York, New York // March 2014 to Current
 
-&nbsp;&nbsp;*Fortune 500 Company*
+Technical Consultant
 
-* Developed a lightweight voice application using Twilio and Sinatra
-* Implemented a basic interactive voice response system that handles caller input
-* Integrated the [SendGrid](https://sendgrid.com/) gem to send voicemails and call details to the client
-* Delivered the solution 2 months faster than predicted by the project manager
-* Reduced the budget of the project by $15,000 
+• Project manager working on daily development of Grandparents.com, a site with 20,000+ visits per day
 
-&nbsp;&nbsp;*Roadrunner Paintball* - [www.roadrunnerpaintball.com](http://www.roadrunnerpaintball.com/)
+• Worked with in-house staff and outside agencies to launch premium benefits membership product
 
-* Managed a designer, developer, and video producer to create an interactive website
-* Developed a dynamic game calendar with payment via the Paypal REST API
-* Assisted in the production and editing of the company's [promotional video](https://www.youtube.com/watch?v=01IXLyKnJk0)
-* Pair coded with a senior Ruby on Rails (RoR) developer and learned advanced practices
-* Deployed the application on Digital Ocean via [Capistrano](http://capistranorb.com/)
+• Provisioned and created FeelGrand.org, a WordPress site run by Grandparents.com and the AGA
 
-&nbsp;&nbsp;*The Homeless Film* - [www.thehomelessfilm.com](http://www.thehomelessfilm.com/)
+Janssen Pharmaceuticals, Inc. Titusville, New Jersey // April 2011 to Current
 
-* Built a mobile-ready website for a Brooklyn filmmaker's upcoming movie 
-* Implemented a custom responsive grid system with CSS media queries
-* Tested for cross-browser compatibility with BrowserStack
-* Deployed the application on Heroku and used New Relic for monitoring
+Technical Consultant
 
-**Webmaster / Web Developer** <span style="float:right;"> 2012 - Present </span>  
-Key Construction Services, Poughkeepsie NY
+• Managed: DevOps , Development, and Design projects
 
-&nbsp;&nbsp;*Project Management Application* - Internal Use  
+• Supported the technology needs of the account teams and projects
 
-* Worked with construction project managers to gather requirements and feedback
-* Developed a RoR application using TDD and an agile development process
-* Created a jQuery UI powered drag-and-drop workforce allocation board
-* Implemented an Excel spreadsheet import and export functionality
+• Managed projects using bleeding edge technology such as a call center using twilio / ruby / sinatra running on heroku
 
-&nbsp;&nbsp;*Brochure Website* - [www.keyconstructionservices.com](http://keyconstructionservices.com/)  
+MDX Medical (Vitals.com), Lyndhurst, New Jersey // November 2010 to March 2011
 
-* Collaborated with the marketing director to improve the company’s web presence
-* Produced the company's [portfolio video](https://www.youtube.com/watch?v=WnZChu3UiDY) and
-developed a responsive video container
-* Learned PHP to work within the company's existing LAMP Stack
-* Handled domain purchase, DNS configuration, and basic SEO
-* Developed a custom mobile-ready website
+Manager of Technology
 
----
+• Managed internal resources including: Developers, Graphic Designers, and DevOps 
 
-#TECHNICAL SKILLS
+• Managed projects, assisted with accounts, and acted as the Technical Project Lead 
 
-**Languages:** Ruby, JavaScript, HTML, CSS, SCSS, PHP  
-**Frameworks:** Ruby on Rails, Sinatra, jQuery UI, AngularJS, PhoneGap-Cordova  
-**Libraries:** Rspec, Capybara, Devise, delayed_job, Jekyll, Factory Girl  
-**Platforms/APIs:** Digital Ocean, Heroku, Twilio, Node.js, PayPal, Stripe  
-**Software/Tools:** Git, Sublime Text, RescueTime, Xcode, Vagrant
+• Clients included: The Blue Cross Blue Shield Association (BCBSA), Providence Insurance, Humana 
 
----
+Multimedia Training Solutions, Parsippany, New Jersey // April 2008 to Sept 2010
 
-#PROJECTS & EXPERIMENTS
+Technology Solutions Director
 
-*Empirical* -- [www.empiricalreview.com](http://www.empiricalreview.com/) (Heroku development server)  
+• Built and maintained the company’s technical infrastructure, and researched new technologies for clients
 
-Empirical is an alternative news and media provider. It is still in its very early phases (hence the construction page), but we are making a lot of progress! 
+• Worked directly with the customers and account teams to ensure successful delivery of projects 
 
-*Calculus with JavaScript* -
-[github.com/jtorreggiani/calculus_with_javascript](https://github.com/jtorreggiani/calculus_with_javascript)  
+• Appeared with and assisted the President & CEO in sales and technical client meetings 
 
-This project is very basic attempt to do symbolic math in javascript.
+• Clients included: Ortho Biotech, Janssen, Ortho-McNeil, Tibotec, Ogilvy & Mather, Centocor, Novartis 
 
-*Job Search Bot* - [github.com/jtorreggiani/job_search_automator](https://github.com/jtorreggiani/job_search_automator)  
+Montclair State University, Upper Montclair, New Jersey // January 2000 to March 2005
 
-This is an idea for a bot that automates my job search. Currently the project is just a collection of scripts that pull
-search results from several websites including Indeed.com, WeWorkRemotely.com, and Craigslist. I have also started
-experimenting with the [mechanize]() gem to click buttons on Craigslist to access additional information. 
+IT Specialist
 
----
+• Junior Solaris/OpenBSD Administrator focused on network security
 
-#PRESENTATIONS
+• Security policy design and setup on UNIX systems
 
-**World Changing Technologies** <span style="float:right;"> 2010 </span>    
-*State University at Albany*, Albany NY  
+• Implemented and maintained various services such as Apache, Sendmail and OpenSSH
 
-Invited to give a lecture on sustainable technologies to an environmental physics class.
+• Hands-on support and troubleshooting on 15,000+ node network and physical support at the IDF and MDF of the network
 
-**Crowdsourcing Social Change** <span style="float:right;"> 2010 </span>  
-*The College of Saint*, Albany NY  
+// EDUCATION:
 
-Presented research on the use of crowdsourcing to solve the problems of debt and inequality. 
+Montclair State University, Upper Montclair, New Jersey
 
----
+Bachelor of Science in Computer Science
 
-#EDUCATION
- 
-**Back-End Web Development Technology Course** <span style="float:right;"> 2013 </span>   
-General Assembly, New York NY
+// AFFILIATIONS AND CERTIFICATIONS:
 
+• HPUX Certified System Administrator
 
-**Bachelor of Arts in History** <span style="float:right;"> 2010 </span>   
-The College of Saint Rose, Albany NY
+• ARRL Ham Radio Technician Class License
 
+• Apple Certified ACMT OS X 
 
-**Semester Abroad** <span style="float:right;"> 2009 </span>   
-Lorenzo De' Medici Italian International Institute, Florence, Italy
+• Member of IEEE and ACM
 
----
-
-#AWARDS & HONORS
-
-Deans List Every Semester of College  
-Graduated Magna Cum Laude  
-Phi Alpha Theta National History Honor Society  
-Phi Sigma Tau International Philosophy Society
+• Member of Sigma Xi Honor Society
