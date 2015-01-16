@@ -24,9 +24,9 @@ Software: LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Goog
 
 <b> // EXPERIENCE: </b>
 
-Fortune 500 Company, New York, New York // March 2014 to Current
+<b> Fortune 500 Company, New York, New York // March 2014 to Current </b>
 
-<b> Technical Consultant <b>
+<b> Technical Consultant </b>
 
 • Project manager working on daily development of a site with 20,000+ visits per day
 
@@ -34,7 +34,7 @@ Fortune 500 Company, New York, New York // March 2014 to Current
 
 • Provisioned and created a customer facing WordPress
 
-Fortune 500 Company, New Jersey // April 2011 to Current
+<b> Fortune 500 Company, New Jersey // April 2011 to Current </b>
 
 <b> Technical Consultant </b>
 
@@ -44,7 +44,7 @@ Fortune 500 Company, New Jersey // April 2011 to Current
 
 • Managed projects using bleeding edge technology such as a call center using twilio / ruby / sinatra running on heroku
 
-MDX Medical (Vitals.com), Lyndhurst, New Jersey // November 2010 to March 2011
+<b> MDX Medical (Vitals.com), Lyndhurst, New Jersey // November 2010 to March 2011 </b>
 
 <b> Manager of Technology </b>
 
@@ -54,7 +54,7 @@ MDX Medical (Vitals.com), Lyndhurst, New Jersey // November 2010 to March 2011
 
 • Clients included: The Blue Cross Blue Shield Association (BCBSA), Providence Insurance, Humana 
 
-Multimedia Training Solutions, Parsippany, New Jersey // April 2008 to Sept 2010
+<b> Multimedia Training Solutions, Parsippany, New Jersey // April 2008 to Sept 2010 </b>
 
 <b> Technology Solutions Director </b>
 
@@ -66,7 +66,7 @@ Multimedia Training Solutions, Parsippany, New Jersey // April 2008 to Sept 2010
 
 • Clients included: Ortho Biotech, Janssen, Ortho-McNeil, Tibotec, Ogilvy & Mather, Centocor, Novartis 
 
-Montclair State University, Upper Montclair, New Jersey // January 2000 to March 2005
+<b> Montclair State University, Upper Montclair, New Jersey // January 2000 to March 2005 </b>
 
 <b> IT Specialist </b>
 
