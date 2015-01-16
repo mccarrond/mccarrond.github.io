@@ -12,7 +12,7 @@ permalink: /resume/
 
 dan.mccarron@gmail.com </b>
 
-// COMPUTER SKILLS:
+<b> // COMPUTER SKILLS: </b>
 
 Programming and Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS
 
@@ -22,7 +22,7 @@ Hardware: Sun UltraSPARC, Mac, PC, Routers/Switches, Storage Arrays
 
 Software: LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, VMware, Vagrant
 
-// EXPERIENCE:
+<b> // EXPERIENCE: </b>
 
 Grandparents.com, Inc. New York, New York // March 2014 to Current
 
@@ -36,7 +36,7 @@ Technical Consultant
 
 Janssen Pharmaceuticals, Inc. Titusville, New Jersey // April 2011 to Current
 
-Technical Consultant
+<b> Technical Consultant </b>
 
 • Managed: DevOps , Development, and Design projects
 
@@ -46,7 +46,7 @@ Technical Consultant
 
 MDX Medical (Vitals.com), Lyndhurst, New Jersey // November 2010 to March 2011
 
-Manager of Technology
+<b> Manager of Technology </b>
 
 • Managed internal resources including: Developers, Graphic Designers, and DevOps 
 
@@ -56,7 +56,7 @@ Manager of Technology
 
 Multimedia Training Solutions, Parsippany, New Jersey // April 2008 to Sept 2010
 
-Technology Solutions Director
+<b> Technology Solutions Director </b>
 
 • Built and maintained the company’s technical infrastructure, and researched new technologies for clients
 
@@ -68,7 +68,7 @@ Technology Solutions Director
 
 Montclair State University, Upper Montclair, New Jersey // January 2000 to March 2005
 
-IT Specialist
+<b> IT Specialist </b>
 
 • Junior Solaris/OpenBSD Administrator focused on network security
 
@@ -78,7 +78,7 @@ IT Specialist
 
 • Hands-on support and troubleshooting on 15,000+ node network and physical support at the IDF and MDF of the network
 
-// EDUCATION:
+<b> // EDUCATION: </b>
 
 Montclair State University, Upper Montclair, New Jersey
 
