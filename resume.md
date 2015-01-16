@@ -6,11 +6,11 @@ permalink: /resume/
 
 <br>
 
-<big><b> Daniel J. McCarron 
+<b> Daniel J. McCarron 
 
 <br>
 
-dan.mccarron@gmail.com </big></b>
+dan.mccarron@gmail.com </b>
 
 // COMPUTER SKILLS:
 
