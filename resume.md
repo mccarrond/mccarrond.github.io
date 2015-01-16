@@ -6,7 +6,7 @@ permalink: /resume/
 
 <br>
 
-(862) 215-4823 Daniel J. McCarron dan.mccarron@gmail.com
+<big><b> Daniel J. McCarron dan.mccarron@gmail.com </big></b>
 
 // COMPUTER SKILLS:
 
