@@ -24,17 +24,17 @@ Software: LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Goog
 
 <b> // EXPERIENCE: </b>
 
-Grandparents.com, Inc. New York, New York // March 2014 to Current
+Fortune 500 Company, New York, New York // March 2014 to Current
 
 <b> Technical Consultant <b>
 
-• Project manager working on daily development of Grandparents.com, a site with 20,000+ visits per day
+• Project manager working on daily development of a site with 20,000+ visits per day
 
 • Worked with in-house staff and outside agencies to launch premium benefits membership product
 
-• Provisioned and created FeelGrand.org, a WordPress site run by Grandparents.com and the AGA
+• Provisioned and created a customer facing WordPress
 
-Janssen Pharmaceuticals, Inc. Titusville, New Jersey // April 2011 to Current
+Fortune 500 Company, New Jersey // April 2011 to Current
 
 <b> Technical Consultant </b>
 
