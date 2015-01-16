@@ -10,7 +10,7 @@ permalink: /resume/
 
 <br>
 
-dan.mccarron@gmail.com </b>
+dan.mccarron@gmail.com 
 
 <b> // COMPUTER SKILLS: </b>
 
