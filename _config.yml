@@ -1,12 +1,12 @@
 # Site settings
-title: Joseph Torreggiani
-email: joseph.torreggiani@gmail.com
+title: Daniel McCarron
+email: dan.mccarron@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The personal blog and website of Joseph Torreggiani.
+  This is the website of Daniel McCarron. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: joetorreggiani
-github_username:  jtorreggiani
+twitter_username: mccarrond 
+github_username:  mccarrond
 
 # Build settings
 markdown: kramdown
