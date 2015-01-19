@@ -14,7 +14,7 @@ dan.mccarron@gmail.com
 
 <b> // COMPUTER SKILLS: </b>
 
-Programming and Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS, Node.js, Ruby
+Programming/Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS, Ruby
 
 Operating Systems: Linux, Solaris, HPUX, BSD, DOS, Windows, OS X, iOS, Android
 
