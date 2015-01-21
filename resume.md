@@ -6,7 +6,7 @@ permalink: /resume/
 
 <br>
 
-<b> Daniel J. McCarron 
+<font size = 18><b> Daniel J. McCarron </font>
 
 <br>
 
