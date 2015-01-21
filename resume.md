@@ -8,8 +8,6 @@ permalink: /resume/
 
 ##**Dan McCarron**
 
-<br>
-
 dan.mccarron@gmail.com 
 
 <b> // COMPUTER SKILLS: </b>
