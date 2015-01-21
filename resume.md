@@ -20,7 +20,7 @@ Operating Systems: Linux, Solaris, HPUX, BSD, DOS, Windows, OS X, iOS, Android
 
 Hardware: Sun UltraSPARC, Mac, PC, Routers/Switches, Storage Arrays
 
-Software: TCP/IP, LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, VMware, Vagrant
+Software: TCP/IP, LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, VMware, Chef, Vagrant
 
 <b> // EXPERIENCE: </b>
 
