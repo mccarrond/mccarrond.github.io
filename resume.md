@@ -12,13 +12,13 @@ dan.mccarron@gmail.com
 
 <b> // COMPUTER SKILLS: </b>
 
-Programming/Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS, Ruby
+Programming/Markup Languages: C++, Java, PHP, XML, Shell Scripting, HTML/CSS, Ruby, node.js, coffeescript 
 
 Operating Systems: Linux, Solaris, HPUX, BSD, DOS, Windows, OS X, iOS, Android
 
 Hardware: Sun UltraSPARC, Mac, PC, Routers/Switches, Storage Arrays
 
-Software: TCP/IP, LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, VMware, Chef, Vagrant
+Software: TCP/IP, LAMP, nginx, git, OpenSSH, Asterisk, UFW, Nmap, Postfix, FreePBX, Google Analytics, Jira, VMware, Chef, Vagrant, Wordpress, Bootstrap
 
 <b> // EXPERIENCE: </b>
 
